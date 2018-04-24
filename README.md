@@ -1,2 +1,2 @@
 # infrastructure-pipeline
-Second commit of inclass11 project: changed readme.md.
+2nd commit of inclass11 project: changed readme.md file.
